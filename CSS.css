@@ -1,7 +1,7 @@
   @import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway');
 
 * {
-    font-family: 'Playfair Display', Serif;
+  font-family: 'Playfair Display', Serif;
   font-color: rgb(41,41,41);
 }
 
@@ -56,7 +56,7 @@ li:hover {
 }
 
 .img-thumbnail {
- filter: url(filters.svg#grayscale);
+  filter: url(filters.svg#grayscale);
   /* Firefox 3.5+ */
   filter: gray;
   /* IE6-9 */
@@ -72,7 +72,7 @@ li:hover {
 }
 
 #about {
-    background-color: rgb(249,249,250);
+  background-color: rgb(249,249,250);
   padding: 8%;
   width: 100%;
   font-size: 1.5em;
